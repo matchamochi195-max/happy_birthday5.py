@@ -255,4 +255,5 @@ pen.pendown()
 pen.write("Happy Birthday", font=("Curlz MT", 50 , 'bold'))
 
 screen.update()
+
 trtl.done()
